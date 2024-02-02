@@ -28,7 +28,7 @@ git clone https://github.com/devmarcosantonio/buscaAstar.git
 
 app.py
 
-3. O projeto solicitará que você forneça um nó de origem e um nó de destino.
+3. O projeto solicitará que você forneça um nó de origem e um nó de destino no código nas suas respectivas variáveis.
 
 4. A solução do problema será exibida no console, mostrando o caminho mais curto encontrado e a distância total percorrida.
 
